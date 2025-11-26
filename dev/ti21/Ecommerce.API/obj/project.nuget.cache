@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/py8sx0P/c=",
+  "success": true,
+  "projectFilePath": "Z:\\Juliano\\dev\\ti21\\Ecommerce.API\\Ecommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ti21\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\ti21\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
